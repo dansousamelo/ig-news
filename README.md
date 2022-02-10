@@ -1,6 +1,12 @@
-# ig.news 📰
+<center>
 
-This is a website for the <b>React</b> developer community. Stay tuned for news about the <b>React</b> world, read, post and share with the community.
+  ![logo](/public/images/favicon.png)
+  ![logo](/public/images/logo.svg)
+  ![logo](/public/images/favicon.png)
+
+</center>
+
+<p>&emsp; This is a website for the <b>React</b> developer community. Stay tuned for news about the <b>React</b> world, read, post and share with the community.</p>
 </br>
 
 ![image](https://user-images.githubusercontent.com/48137972/153086860-bdca39aa-c3a8-477f-a24f-7a7eb67e0edc.png)
